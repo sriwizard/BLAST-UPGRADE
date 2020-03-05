@@ -73,4 +73,4 @@ chmod +x Blast.sh
 
 # Run BLAST-UPGRADE:
 
-sudo bash TBomb.sh
+sudo bash Blast.sh
