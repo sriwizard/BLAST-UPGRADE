@@ -52,8 +52,8 @@ exit 0
 elif [ $ch -eq 2 ];then
 clear
 echo -e "\e[1;32m"
-echo 'Call Bomb BySRIWIZARD '> call.xxx
-python3 blastet.py call
+echo 'Call Bomb By SRIWIZARD '> call.xxx
+python3 blaster.py call
 rm *.xxx >/dev/null 2>&1
 exit 0
 elif [ $ch -eq 3 ];then
